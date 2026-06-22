@@ -1,13 +1,13 @@
 # World Bank Trade Analysis - Microsoft Fabric Portfolio
 
 ## Overview
-Analysis of global merchandise trade (exports and imports) trends 
-across 266 countries using Microsoft Fabric Warehouse.
+A Microsoft Fabric data engineering project that analyzes global merchandise trade (exports and imports) across 266 countries using a modern data warehouse architecture.
+
+### Technology Stack
+Microsoft Fabric Warehouse | Data Factory | T-SQL | Power BI
 
 ## Objective
-To build a scalable data pipeline that transforms global trade data 
-into actionable insights, visualizing the impact of geopolitical 
-and economic events on trade performance.
+To design and implement a scalable trade analytics platform using Microsoft Fabric, covering data ingestion, transformation, dimensional modeling, and reporting.
 
 ## Data Source
 - World Bank Open Data: Merchandise exports (current US$)
@@ -34,11 +34,14 @@ Medallion Architecture (Bronze / Silver / Gold)
 - Stored Procedure (MERGE for incremental load)
 - Fully automated end-to-end pipeline
 
-## Tools & Technologies
-- Microsoft Fabric Warehouse
-- T-SQL / UNPIVOT / MERGE
-- Data Pipeline
-- Power BI (Time series line chart + Slicer)
+## Technical Highlights
+* Designed and implemented an end-to-end data platform using Microsoft Fabric, from raw data ingestion to Power BI reporting
+* Implemented Medallion Architecture (Bronze / Silver / Gold) in Microsoft Fabric Warehouse
+* Built automated data ingestion pipelines using Data Factory Copy Data activities
+* Transformed World Bank trade datasets from wide to long format using T-SQL UNPIVOT
+* Designed and implemented a star schema data model (dimCountry, dimYear, factTrade)
+* Developed incremental loading processes using T-SQL MERGE stored procedures
+* Enabled scalable analytical reporting through dimensional modeling and curated Gold-layer datasets
 
 ## Visualization
 <img src="screenshots/Balance.PNG" width="600">
@@ -51,13 +54,8 @@ Medallion Architecture (Bronze / Silver / Gold)
 ## Pipeline Design
 <img src="pipeline.png" width="600">
 
-## Key Finding
-- Arab countries show significant trade dips in 2008, 2015, 
-  and 2020, closely reflecting global oil price fluctuations.
-- Arab countries' trade remains low in 2024, potentially 
-  reflecting ongoing geopolitical risks including Strait of 
-  Hormuz tensions.
-- US exports continued to grow despite geopolitical tensions 
-  with China.
-- China shows the highest export growth among all countries 
-  from 2000 to 2024.
+## Business Insights
+- Arab countries show significant trade dips in 2008, 2015, and 2020, closely reflecting global oil price fluctuations.
+- Trade activity in several Arab countries remained below pre-2020 levels in 2024, potentially reflecting ongoing geopolitical uncertainty.
+- US exports continued to grow despite geopolitical tensions with China.
+- China shows the highest export growth among all countries from 2000 to 2024.
