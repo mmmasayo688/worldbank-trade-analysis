@@ -54,7 +54,7 @@ Medallion Architecture (Bronze / Silver / Gold)
 ## Key Finding
 - Arab countries show significant trade dips in 2008, 2015, 
   and 2020, closely reflecting global oil price fluctuations.
-- Arab countries' trade remains low in 2025, potentially 
+- Arab countries' trade remains low in 2024, potentially 
   reflecting ongoing geopolitical risks including Strait of 
   Hormuz tensions.
 - US exports continued to grow despite geopolitical tensions 
