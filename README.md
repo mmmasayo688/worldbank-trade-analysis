@@ -39,7 +39,12 @@ Medallion Architecture (Bronze / Silver / Gold)
 - Power BI (Time series line chart + Slicer)
 
 ## Key Finding
-Despite geopolitical tensions between the US and China, 
-merchandise trade between major economies continued to grow. 
-Global trade shows clear dips in 2009 (financial crisis) 
-and 2020 (COVID-19 pandemic), followed by strong recoveries.
+- Arab countries show significant trade dips in 2008, 2015, 
+  and 2020, closely reflecting global oil price fluctuations.
+- Arab countries' trade remains low in 2025, potentially 
+  reflecting ongoing geopolitical risks including Strait of 
+  Hormuz tensions.
+- US exports continued to grow despite geopolitical tensions 
+  with China.
+- China shows the highest export growth among all countries 
+  from 2000 to 2024.
