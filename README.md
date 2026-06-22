@@ -4,6 +4,11 @@
 Analysis of global merchandise trade (exports and imports) trends 
 across 266 countries using Microsoft Fabric Warehouse.
 
+## Objective
+To build a scalable data pipeline that transforms global trade data 
+into actionable insights, visualizing the impact of geopolitical 
+and economic events on trade performance.
+
 ## Data Source
 - World Bank Open Data: Merchandise exports (current US$)
 - World Bank Open Data: Merchandise imports (current US$)
