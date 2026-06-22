@@ -46,10 +46,10 @@ Medallion Architecture (Bronze / Silver / Gold)
 <img src="screenshots/import.PNG" width="600">
 
 ## Data Model
-![ER Diagram](er_diagram.png)
+<img src="screenshots/ER.PNG" width="600">
 
 ## Pipeline Design
-![Pipeline](pipeline.png)
+<img src="screenshots/pipeline.png" width="600">
 
 ## Key Finding
 - Arab countries show significant trade dips in 2008, 2015, 
