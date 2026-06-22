@@ -51,10 +51,10 @@ Medallion Architecture (Bronze / Silver / Gold)
 <img src="screenshots/import.PNG" width="600">
 
 ## Data Model
-<img src="er_diagram.png" width="600">
+<img src="screenshots/er_diagram.png" width="600">
 
 ## Pipeline Design
-<img src="pipeline.png" width="600">
+<img src="screenshots/pipeline.png" width="600">
 
 ## Business Insights
 - Arab countries show significant trade dips in 2008, 2015, and 2020, closely reflecting global oil price fluctuations.
