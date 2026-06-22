@@ -35,6 +35,17 @@ Medallion Architecture (Bronze / Silver / Gold)
 - Data Pipeline
 - Power BI (Time series line chart + Slicer)
 
+## Visualization
+![Trade Report 1](screenshots/Balance.PNG)
+![Trade Report 2](screenshots/export.PNG)
+![Trade Report 3](screenshots/import.PNG)
+
+## Data Model
+![ER Diagram](er_diagram.png)
+
+## Pipeline Design
+![Pipeline](pipeline.png)
+
 ## Key Finding
 - Arab countries show significant trade dips in 2008, 2015, 
   and 2020, closely reflecting global oil price fluctuations.
