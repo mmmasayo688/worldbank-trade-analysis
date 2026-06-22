@@ -36,9 +36,9 @@ Medallion Architecture (Bronze / Silver / Gold)
 - Power BI (Time series line chart + Slicer)
 
 ## Visualization
-![Trade Report 1](screenshots/Balance.PNG)
-![Trade Report 2](screenshots/export.PNG)
-![Trade Report 3](screenshots/import.PNG)
+<img src="screenshots/Balance.PNG" width="600">
+<img src="screenshots/export.PNG" width="600">
+<img src="screenshots/import.PNG" width="600">
 
 ## Data Model
 ![ER Diagram](er_diagram.png)
