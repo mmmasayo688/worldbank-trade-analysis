@@ -17,6 +17,8 @@ To design and implement a scalable trade analytics platform using Microsoft Fabr
 ## Architecture
 Medallion Architecture (Bronze / Silver / Gold)
 
+<img src="screenshots/architecture.png" width="400">
+
 ### Bronze
 - Raw CSV files from World Bank
 
