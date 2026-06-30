@@ -1,3 +1,5 @@
+🇯🇵 日本語版はこちら → [README_ja.md](README_ja.md)
+
 # World Bank Trade Analysis - Microsoft Fabric Portfolio
 
 ## Overview
