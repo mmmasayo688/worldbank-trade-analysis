@@ -1,6 +1,6 @@
-🇯🇵 日本語版はこちら → [README_ja.md](README_ja.md)
-
 # World Bank Trade Analysis - Microsoft Fabric Portfolio
+
+🇯🇵 日本語版はこちら → [README_ja.md](README_ja.md)
 
 ## Overview
 A Microsoft Fabric data engineering project that analyzes global merchandise trade (exports and imports) across 266 countries using a modern data warehouse architecture.
