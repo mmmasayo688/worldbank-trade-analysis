@@ -1,6 +1,6 @@
-🇬🇧 English version → [README.md](README.md)
-
 # 世界銀行 貿易データ分析 - Microsoft Fabric ポートフォリオ
+
+🇬🇧 English version → [README.md](README.md)
 
 ## 概要
 
